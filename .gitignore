@@ -53,3 +53,5 @@ compile_commands.json
 
 # binary
 QuickDir
+debug/
+release/
