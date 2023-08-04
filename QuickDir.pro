@@ -12,6 +12,9 @@ HEADERS += \
     pathmenu.h \
     traymenu.h
 
+RESOURCES += \
+    res.qrc
+
 win* {
     LIBS += -lole32
 }
